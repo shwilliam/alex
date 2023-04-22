@@ -1,27 +1,26 @@
 # alex
 
-a top-mount frl with no frills. designed to be easy to manufacture and serve as a prototyped and tested starting point to build on top of.
+![the board](images/photo_1.jpg)
 
-![the keyboard](images/photo_1.jpg)
+## specs
 
-## Specs
-
-- top mount
+- frl
 - wkl
+- top mount
 - 6° typing angle
 - ≈17.7mm adjusted front height
 - seamed case
 - no weight
-- full and half plate (ansi)
-- pcb by [sleepdealer](https://github.com/Sleepdealr/OSFRL)
+- ansi full and half plates
+- [pcb by sleepdealer](https://github.com/Sleepdealr/OSFRL)
+
+## layout
+
+![layout](images/layout.png)
+
+provided layout support is opinionated and based on personal preference. though the pcb supports alternative layout options, only files for ansi plates (full and half) are provided as these are the plates i have prototyped.
 
 ![assembly top render](images/render_1.png)
 ![assembly bottom render](images/render_2.png)
 ![full plate render](images/render_3.png)
 ![half plate render](images/render_4.png)
-
-## Layout
-
-![plate layout](images/layout.png)
-
-provided plate layout support is opinionated and based on personal preference; don't like it? make your own. only files for ansi full- and half-plates are provided as these have been tested.
