@@ -29,7 +29,9 @@
 
 plate layout support is opinionated and based on personal preference. though the pcb supports alternative layout options ([see below](#pcb-layout)), only files for ansi plates (full and half) in this layout are provided as these are the plates i have prototyped and am happy with.
 
-![layout](images/layout.png)
+## pcb layout
+
+![pcb layout](images/pcb-layout.png)
 
 ## more
 
