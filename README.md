@@ -19,8 +19,9 @@
 - mx
 - solder
 - molex ezmate connector (support for [s1 unified daughterboard](https://github.com/Unified-Daughterboard/UDB-S))
-- stm32f072
-- through-hole led support (caps lock and home positions)
+- stm32f072 mcu
+- indicator led support for caps lock and home positions
+- qmk and vial firmware
 - by [sleepdealer](https://github.com/Sleepdealr/OSFRL)
 
 ## plate layout
